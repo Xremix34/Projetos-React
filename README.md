@@ -1,5 +1,3 @@
-# Secret Word
-
 # <p align="center">Secret Word</p>
 
 ![secretword](https://user-images.githubusercontent.com/92939227/227214449-4907de15-e313-44a0-8358-b1207f61d8f4.png)
@@ -39,12 +37,12 @@ Caso o jogador adivinhe, são mostradas as palavras certas senão acertar mostra
 #### Instalação
 - <p>Copiar a pasta para o diretório desejado no computador.</p>
 ```git clone https://github.com/Xremix34/Projetos-React.git```
-- <p>Instalar o node.js</p>
-- <p>Abrir o Power Shell, CMD ou Terminal</p>
-- <p>Ir até ao diretório da pasta do projeto atravéz do comando ex: <strong>cd C:\secretword</strong></p>
+- <p>Instalar o node.js.</p>
+- <p>Abrir o Power Shell, CMD ou Terminal.</p>
+- <p>Ir até ao diretório da pasta do projeto atravéz do comando ex: <strong>cd C:\secretword</strong>.</p>
 - <p>De seguida</p>
-- <p><strong>npm install</strong> para instalar as dependências em falta</p>
-- <p><strong>npm start</strong> para iniciar o jogo</p>
+- <p><strong>npm install</strong> para instalar as dependências em falta.</p>
+- <p><strong>npm start</strong> para iniciar o jogo.</p>
 ---
 
 ## Autores
